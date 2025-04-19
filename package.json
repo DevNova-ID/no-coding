@@ -1,0 +1,22 @@
+{
+  "name": "@devnova-id/no-coding",
+  "version": "1.0.0",
+  "description": "No-code E-commerce Solution for WhatsApp-based Stores",
+  "main": "dist/noCoding.min.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ecommerce",
+    "whatsapp",
+    "nocode",
+    "shop"
+  ],
+  "author": "DevNova-ID",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.99.6",
+    "webpack-cli": "^6.0.1"
+  }
+}

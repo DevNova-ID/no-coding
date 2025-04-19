@@ -1,0 +1,66 @@
+{
+  "storeName": "Toko Fashionku",
+  "whatsapp": "6283170121139",
+  "email": "jokerrrq77@gmail.com",
+  "theme": {
+    "color": "#e84393",
+    "hover": "#c44569"
+  },
+  "products": [
+    
+    
+    {
+      "id": 1,
+      "name": "Outskirts",
+      "price": 250000,
+      "image": "Outskirts.jpg",
+      "description": "Short Sleeves Shirt White Kemeja Polos Putih Pria Lengan Pendek Casual Slimfit",
+      "variants": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Celana Jeans Slim Fit",
+      "price": 350000,
+      "image": "jeans.jpg",
+      "description": "Jeans stretch nyaman seharian",
+      "variants": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 3,
+      "name": "Woven Casual",
+      "price": 380000,
+      "image": "Woven.jpg",
+      "description": "Woven Casual Short Sleeve Shirt",
+      "variants": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": 4,
+      "name": "Casual",
+      "price": 380000,
+      "image": "Casual.jpg",
+      "description": "Woven Casual Sleeve Shirt",
+      "variants": ["S", "M", "L", "XL"]
+    }
+    
+    
+  ],
+  "tentangKami": {
+    "judul": "Tentang Kami",
+    "deskripsi": "Toko Fashionku adalah toko fashion yang menyediakan pakaian berkualitas tinggi dengan desain modern. Kami berkomitmen untuk memberikan pengalaman berbelanja yang memuaskan dan produk yang trendy."
+  },
+  "syaratKetentuan": {
+    "judul": "Syarat & Ketentuan",
+    "konten": [
+      "Semua pesanan yang telah dibayar tidak dapat dibatalkan.",
+      "Mohon untuk memastikan alamat pengiriman yang benar dan lengkap.",
+      "Kami tidak bertanggung jawab atas kesalahan pengiriman yang disebabkan oleh data yang salah.",
+      "Pengembalian hanya diterima jika barang rusak dan dilengkapi dengan bukti (video unboxing)."
+    ]
+    
+    
+  },
+  "jamOprasional": {
+    "seninJumat": "08:00 - 20:00",
+    "sabtuMinggu": "08:00 - 00:00"
+  }
+}
