@@ -1,6 +1,6 @@
 {
   "name": "@devnova-id/no-coding",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "No-code E-commerce Solution for WhatsApp-based Stores",
   "main": "dist/noCoding.min.js",
   "scripts": {
